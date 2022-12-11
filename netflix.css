@@ -1,0 +1,43 @@
+body {
+    background-color: black;
+}
+.container {
+    display: flex;
+    margin: 70px;
+    align-items: center;
+    margin-top: 5px;
+    justify-content:space-evenly;
+
+}
+
+.title {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    font-size: 30px;
+    color: #fff;
+}
+.title p {
+    color: #fff;
+}
+
+.caja1 p {
+    color: #fff;
+    
+}
+
+.caja2 p{
+    color: #fff;
+    
+}
+
+.caja3 {
+    color: #fff;
+}
+
+.caja4 {
+    color:#fff;
+    transition: 0.2s;
+    transform: scale(1);
+}
+
